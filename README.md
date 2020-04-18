@@ -1,7 +1,7 @@
 # curso-javascript-es6
 Codes developed during the course of JavaScipt ES6+ of the RocketSeat.
 
-module 1 - ok.
-module 2 - in process.
-module 3 - standby
-module 4 - standby
+Module 1 - ok.
+Module 2 - in process.
+Module 3 - standby.
+Module 4 - standby.
