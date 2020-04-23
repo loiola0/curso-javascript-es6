@@ -1,0 +1,9 @@
+{
+    //identifica qual ambiente de desenvolvimento(browser,react-native,node)
+    //transforma o código do es6+ para que os navegadores entendam o código
+    "presets": ["@babel/preset-env"],
+    "plugins": [
+        "@babel/plugin-proposal-object-rest-spread",
+        "@babel/plugin-transform-async-to-generator"
+    ]
+}
